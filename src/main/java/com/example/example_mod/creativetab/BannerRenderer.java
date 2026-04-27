@@ -1,6 +1,5 @@
 package com.example.example_mod.creativetab;
 
-import com.example.example_mod.init.ModSections;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.Font;
 import net.minecraft.client.gui.GuiGraphicsExtractor;

@@ -1,7 +1,5 @@
-package com.example.example_mod.init;
+package com.example.example_mod.creativetab;
 
-import com.example.example_mod.creativetab.Section;
-import com.example.example_mod.creativetab.SectionColored;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.Items;
 

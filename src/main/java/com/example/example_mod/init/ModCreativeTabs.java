@@ -1,5 +1,6 @@
 package com.example.example_mod.init;
 
+import com.example.example_mod.creativetab.ModSections;
 import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
