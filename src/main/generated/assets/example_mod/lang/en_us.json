@@ -1,0 +1,8 @@
+{
+  "block.example_mod.example_block": "Example Block",
+  "item.example_mod.example_item": "Example Item",
+  "itemGroup.mod_id.section_1": "Tab Section 1",
+  "itemGroup.mod_id.section_2": "Tab Section 2",
+  "itemGroup.mod_id.section_3": "Tab Section 3",
+  "itemGroup.mod_id.tab_name": "Example Tab"
+}
